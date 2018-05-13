@@ -1,0 +1,16 @@
+{
+  "countries" : [
+    {
+        "bangladesh": {
+          "flag": "🇧🇩",
+          "code": "+880"
+        }
+    },
+    {
+        "singapore": {
+          "flag": "🇸🇬",
+          "code": "+65"
+        }
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "35050092388",
+    "firebase_url": "https://ekkrtc.firebaseio.com",
+    "project_id": "ekkrtc",
+    "storage_bucket": "ekkrtc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35050092388:android:a2b7f5f43a969010",
+        "android_client_info": {
+          "package_name": "com.ekkbaz.business"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "35050092388-5lrqlu83duk4kae8hr4627jsap9hp0o5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ekkbaz.business",
+            "certificate_hash": "92a4fc94e6d59fa00027353c563bd8043b01b5bb"
+          }
+        },
+        {
+          "client_id": "35050092388-9j082b151e3shs10ajr24mteb0ac3992.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvSGxFHpEK6x5-270t7asEsr0LQxq1r8I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "35050092388-9j082b151e3shs10ajr24mteb0ac3992.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "35050092388-f2bsvdfmg7l3i0nehuvcn6b8gpbmnpsk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ekkbaz.business.ios"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
